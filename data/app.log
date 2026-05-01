@@ -1,0 +1,16 @@
+
+[2026-01-05 10:01:01] [INFO] --- Iniciando Publicador de Gran Alcance ---
+[2026-01-05 10:01:02] [INFO] Login exitoso en Bluesky.
+[2026-01-05 10:01:02] [INFO] Probando canal (1/6): UCc4K7bAqpdBP8jh1j9XZAww
+[2026-01-05 10:01:02] [INFO] YouTubeService: Buscando 50 vídeos en canal UCc4K7bAqpdBP8jh1j9XZAww con orden: viewCount
+[2026-01-05 10:01:04] [INFO] Ningún vídeo válido tras analizar los 50 de UCc4K7bAqpdBP8jh1j9XZAww. Probando siguiente canal...
+[2026-01-05 10:01:04] [INFO] Probando canal (2/6): UCBxEf1UWDjbIEoh2MAQR7zQ
+[2026-01-05 10:01:04] [INFO] YouTubeService: Buscando 50 vídeos en canal UCBxEf1UWDjbIEoh2MAQR7zQ con orden: viewCount
+[2026-01-05 10:01:04] [INFO] ¡Candidato encontrado!: Rk2B8pw1dVs (Duración: 291s)
+[2026-01-05 10:01:07] [INFO] ✅ PUBLICACIÓN COMPLETADA: King Crimson - Sex Sleep Eat Drink Dream (Rk2B8pw1dVs)
+[2026-01-07 10:13:28] [INFO] --- Iniciando Publicador de Gran Alcance ---
+[2026-01-07 10:13:29] [INFO] Login exitoso en Bluesky.
+[2026-01-07 10:13:29] [INFO] Probando canal (1/6): UCaKZA66vM_TUpetUNohmR0A
+[2026-01-07 10:13:29] [INFO] YouTubeService: Buscando 50 vídeos en canal UCaKZA66vM_TUpetUNohmR0A con orden: viewCount
+[2026-01-07 10:13:29] [INFO] ¡Candidato encontrado!: rwy07azI8nc (Duración: 263s)
+[2026-01-07 10:13:31] [INFO] ✅ PUBLICACIÓN COMPLETADA: Led Zeppelin - D'yer Mak'er (Official Audio) (rwy07azI8nc)

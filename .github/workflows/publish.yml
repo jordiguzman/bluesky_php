@@ -1,0 +1,18 @@
+name: Disparador Bluesky Music (Cron)
+
+on:
+  schedule:
+    # Se ejecuta a las 10:00 AM (Hora de España) -> 09:00 UTC
+    - cron: '0 9 * * *'
+  # Botón para activar manualmente desde la pestaña Actions
+  workflow_dispatch:
+
+jobs:
+  activar_script:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Llamar al script PHP en el servidor
+        run: |
+          # He puesto la URL basándome en tus carpetas anteriores. 
+          # Asegúrate de que publish_now.php sea accesible desde el navegador.
+          curl -L "https://mentat-music.com/bluesky_php/publish_now.php?trigger=github&t=$(date +%s)"
