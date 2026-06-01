@@ -3,7 +3,7 @@ name: Disparador Bluesky Music (Cron)
 on:
   schedule:
     # Se ejecuta a las 10:00 AM (Hora de España) -> 09:00 UTC
-    - cron: '0 9 * * *'
+    - cron: '12 7 * * *'
   # Botón para activar manualmente desde la pestaña Actions
   workflow_dispatch:
 
